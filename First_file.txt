@@ -1,0 +1,5 @@
+countries_list = input().split()
+
+selected_countries = countries_list[1:-1]
+print(f'Original list of countries: {countries_list}')
+print(f'Selected list of countries: {selected_countries}')
