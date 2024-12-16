@@ -1,0 +1,13 @@
+###List florists_list is read from input. Perform the following tasks:
+
+##3Assign backup_data with a copy of florists_list using [:].
+###Assign selected_florists with every third element of florists_list starting at index 1, so that the selected elements are at indices 1, 1 + 3, 1 + 6, and so on.
+florists_list = input().split()
+
+backup_data = florists_list[:]
+selected_florists = florists_list[1:-1:3]
+
+
+florists_list.clear()
+print(f'Backup list of florists: {backup_data}')
+print(f'Selected list of florists: {selected_florists}')
