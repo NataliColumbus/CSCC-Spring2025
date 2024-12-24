@@ -1,2 +1,7 @@
 Really testing file for conflict
+<<<<<<< HEAD
 New checking and studying
+=======
+
+Again create conflict.
+>>>>>>> 06c760aa13318cea72e33e36822c74009c256597
