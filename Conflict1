@@ -13,4 +13,14 @@
 #     print('YES')
 # else:
 #     print('NO')
+<<<<<<< HEAD
   This is input
+=======
+
+
+
+
+n = input()
+l_n = input()
+print(f"Hello {n} {l_n}! You have just delved into Python")
+>>>>>>> 6e4aaa97f4f5d67d1ad053c1cacd0d5dafa24637
