@@ -1,0 +1,15 @@
+ s1_len = len(input())
+# s2_len = len(input())
+# s3_len = len(input())
+#
+# # находим длину самой длинной строки
+# max_len = max(s1_len, s2_len, s3_len)
+# # находим длину самой короткой строки
+# min_len = min(s1_len, s2_len, s3_len)
+# # находим длину средней (по длине) строки
+# average_len = s1_len + s2_len + s3_len - max_len - min_len
+#
+# if average_len - min_len == max_len - average_len:
+#     print('YES')
+# else:
+#     print('NO')
