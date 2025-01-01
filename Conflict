@@ -1,1 +1,14 @@
 It was creating for studying!hhhhh
+
+
+
+# n = int(input())
+# a = int(input())
+# if n >= 30:
+#     if a < 10:
+#         print("YEa")
+# else:
+#     print("None")
+
+# n = 12.3
+# print((n % 3) // 0.1)
