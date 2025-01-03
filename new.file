@@ -1,5 +1,5 @@
-new_line
-Commit test
-and something write
-add else
-hren yogo znat sho
+for i in range(5):
+    num = int(input())
+    print("Квадрат вашего числа равен:", num * num)
+
+print("Цикл завершен")
