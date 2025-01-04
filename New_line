@@ -14,3 +14,9 @@ n(n≥2).
 k = int(input()) 
 for i in range(k, 0, -1): 
     print('*' * i) 
+	
+	OR  
+	n = int(input())
+
+for i in range(n):
+    print("*" * (n - i))
